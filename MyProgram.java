@@ -6,5 +6,6 @@ public class MyProgram{
  		System.out.println("WELCOME Himanshu!!");
 		System.out.println("And now i am pushing code");
 		System.out.println(LocalDateTime.now());
+		System.out.println("ADD"+(5+1));
 	}
 }
